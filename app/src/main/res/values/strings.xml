@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Calculadora Sencilla Padrino</string>
+    <string name="titulo_ventana">Uso de Radio Button :B</string>
+    <string name="txt_hint">Escribe un número ;)</string>
+    <string name="txt_hint2" />
+    <string name="txt_hintt">Escribe otro numero ;)</string>
+    <string name="txt_res">El resultado es:</string>
+    <string name="lb_suma">Suma</string>
+    <string name="lb_resta">Restar</string>
+    <string name="btn_realiza">¿Calcular?</string>
+    <string name="lb_multi">Multiplicación</string>
+    <string name="lb_div">División</string>
+</resources>
